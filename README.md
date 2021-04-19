@@ -7,9 +7,9 @@ The problem of Overfitting vs Underfitting finally appears when we talk about th
 ![]( https://github.com/PHBMB/Polynomial-Regression-Python/blob/main/GraphOrder1.png)
 
 #### Graph Order: 3 and R2 Score:  0.9226386619999667
-[](https://github.com/PHBMB/Polynomial-Regression-Python/blob/main/GraphOrder3.png)
+![](https://github.com/PHBMB/Polynomial-Regression-Python/blob/main/GraphOrder3.png)
 #### Graph Order: 15 and R2 Score:  0.9986481085821025
-[](https://github.com/PHBMB/Polynomial-Regression-Python/blob/main/GraphOrder15.png)
+![](https://github.com/PHBMB/Polynomial-Regression-Python/blob/main/GraphOrder15.png)
 
 ### Conclusions
 Since the data is never perfect, the goal should not be a function that intersects every point perfectly. The goal should be a function that correlates smartly with all data points. Only in this way does a prediction with data appear to be approximate.
